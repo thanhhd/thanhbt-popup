@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AACI,QAAI;EACA,KAAK,EAAE,IAAI",
+"sources": ["thanhbt-popup.scss"],
 "names": [],
 "file": "thanhbt-popup.css"
 }
